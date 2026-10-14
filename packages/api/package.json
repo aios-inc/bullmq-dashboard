@@ -47,7 +47,7 @@
   "devDependencies": {
     "@types/redis-info": "^3.0.3",
     "bull": "^4.16.5",
-    "bullmq": "^6.0.3",
+    "bullmq": "^6.3.12",
     "typescript": "^5.7.2"
   },
   "peerDependencies": {
