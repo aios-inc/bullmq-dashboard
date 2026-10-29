@@ -10,8 +10,6 @@ and a focused design system.
 [![npm org](https://img.shields.io/badge/npm-%40aios--medical-cb3837?logo=npm)](https://www.npmjs.com/org/aios-medical)
 [![license](https://img.shields.io/npm/l/@aios-medical/bullmq-dashboard-nestjs.svg)](./LICENSE)
 
-All four packages are published under the [`@aios-medical`](https://www.npmjs.com/org/aios-medical) npm org.
-
 ---
 
 <img alt="Overview: live view of all queues, their throughput and health" src="./screenshots/overview.png" />
